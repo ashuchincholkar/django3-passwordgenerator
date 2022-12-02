@@ -86,3 +86,4 @@ HOW TO MAKE PROJECT GIT Initialized
       > ls -a to see hidden folder
       > git add -A : to add the changes
       > git commit -m 'modifed password html'
+      > git
