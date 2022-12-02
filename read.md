@@ -77,3 +77,10 @@ INSTALL GIT
 --
       in macbook https://git-scm.com/download/mac
       > /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+      > command line hit 'git' and see if git installed
+
+HOW TO MAKE PROJECT GIT Initialized
+-  
+      > cd <project>
+      > git init
+      > ls -a to see hidden folder
